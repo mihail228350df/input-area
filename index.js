@@ -1,0 +1,1 @@
+const inputNode = document.querySelector(".js-input");
